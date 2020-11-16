@@ -1,20 +1,15 @@
-#Jogo da Forca
+#  Jogo da Forca
 
-##Jogo de console, feito em C++. Focado em iniciantes que querem praticar os conceitos básicos da liguagem. Jogo feito sem orientação a objetos!
+##  Jogo de console, feito em C++. Focado em iniciantes que querem praticar os conceitos básicos da liguagem. Jogo feito sem orientação a objetos!
 
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#autores">Autores</a>
-</p>
-
-## :objetivo: **Objetivo**
+##  **Objetivo**
 Com objetivo de praticar os fundamentos da linguagem C++, esse projeto é de extrema importância para o iniciante em programação!
 
 Não há orientação à obejtos, clean code ou divisão entre arquivos hearder.
 
 Todo o projeto é construído em um único arquivo CPP, dividido em cinco funções.
 
-## :autores: **Autores**
+##  **Autores**
 
 ### Eduardo Ferrarezi
 
